@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="test.java.project.primes.PrimeNumberFinderTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2019-03-04T01:11:57" hostname="Ajinkyas-MacBook-Pro.local" time="0.003">
+  <properties/>
+  <testcase name="firstNPrimesTest" classname="test.java.project.primes.PrimeNumberFinderTest" time="0.003"/>
+  <testcase name="firstNPrimesSieveTest" classname="test.java.project.primes.PrimeNumberFinderTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
